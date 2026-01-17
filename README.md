@@ -155,3 +155,14 @@ Estimated claim reduction: 20%
 Potential savings for 10,000 policies at $5,000 claim each: $2.8M annually
 
 
+About Me
+OLUDHINWA BIBIRE FIRSTLADY
+
+🎓 B.Ed in Political science and M.A in International Relations | 📊 Data Analyst | |Customer Services Support|🎶 Worship Singer
+
+I’m passionate about simplifying data into impactful visuals and helping businesses make better decisions and am also victual assitant specific on CUSTOMER SERVICES and Admainistrative Support
+This project is a reflection of my journey in Excel-based analysis and business intelligence reporting.
+
+📫 Contact
+Email: oyinoluwaajee@gmail.com Phone: +234 7068613742 LinkedIn: https://www.linkedin.com/in/oludehinwa-bibire-a985a4209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
