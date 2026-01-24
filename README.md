@@ -1,20 +1,30 @@
-[OLUDEHINWA BIBIRE CAPSTONE PROJECT.ipynb](https://github.com/user-attachments/files/24837697/OLUDEHINWA.BIBIRE.CAPSTONE.PROJECT.ipynb)    # Insurance Claim Prediction Project
+[OLUDEHINWA BIBIRE CAPSTONE PROJECT.ipynb](https://github.com/user-attachments/files/24837697/OLUDEHINWA.BIBIRE.CAPSTONE.PROJECT.ipynb)   
+
+# Insurance Claim Prediction Project
+
 **Project Overview**
 
 This project develops predictive models to determine the likelihood of an insurance claim for buildings during a specific observation period. The models use building characteristics, location data, and policy features to estimate the probability of at least one claim.
 
 **Business Problem:**
 
-*Insurance companies need accurate risk assessment to:
+**Insurance companies need accurate risk assessment to:**
 
 *Price policies appropriately
+
 *Reduce claim losses
+
 *Optimize underwriting processes
+
 *Identify high-risk properties for targeted interventions
 Key Results:
+
 *Best Model ROC-AUC: 0.847
+
 *Overall Claim Rate: 29.6%
+
 *Key Risk Factors: Unpainted buildings, older buildings, specific geographic areas
+
 *Potential Loss Reduction: 15-20% with model implementation
 
 **PROJECT STRUCTURE*
