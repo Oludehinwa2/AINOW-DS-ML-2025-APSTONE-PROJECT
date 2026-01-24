@@ -174,9 +174,12 @@ Use model predictions for real-time underwriting decisions
 
 #2ND FILE
 
+[1. Variable_Des-WPS Office.docx](https://github.com/user-attachments/files/24837824/1.Variable_Des-WPS.Office.docx)
+
 
 
 #THE DASHBOARD
+
 
 
 
